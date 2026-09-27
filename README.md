@@ -38,11 +38,17 @@ With a strong foundation in backend architecture, relational database management
 - Implemented user authentication, strict ownership-based authorization, and decoupled REST APIs consumed via JavaScript `fetch()`.
 - Designed parameterized ORM queries to prevent SQL injection and ensure encrypted storage of note bodies.
 
-#### 🚌 [Smart Bus — IoT-Driven Cashless Fare & Voice Alert System](https://github.com/gaganagana/Automatic-Fare-Collection-System-IoT)
-*Arduino UNO, Embedded C, MFRC522 RFID, I2C LCD, DFPlayer Mini, NodeMCU ESP8266, Firebase*
-- Developed an automated transit fare collection system utilizing **MFRC522 RFID** smartcards and **Arduino UNO**.
-- Integrated real-time bilingual voice announcements via **DFPlayer Mini**, dynamic route updates on a **16x2 I2C LCD**, and automated servo gate controls.
-- Designed system expansion architecture incorporating **NodeMCU ESP8266** for cloud balance synchronization.
+#### 🚌 [Smart Bus — IoT Fare Collection & Real-Time Tracking with Flutter App (MCA Major Project)](https://github.com/gaganagana/Automatic-Fare-Collection-System-IoT/tree/main/Main-Project/Smart-Bus-IoT-Fare-Collection)
+*Flutter 3.x, Dart, Firebase Firestore, NodeMCU ESP8266, Arduino UNO, Razorpay, Shelf Server*
+- Architected an end-to-end smart transit management platform linking physical RFID bus turnstiles to a cross-platform **Flutter** application via local Wi-Fi telemetry and **Cloud Firestore**.
+- Engineered a reactive mobile client featuring live GPS route simulation across 18 Bengaluru stops, bilingual English and regional Kannada (ಕನ್ನಡ) UI & audio announcements, digital wallet balances, and lost card locking.
+- Implemented **Razorpay** test payment gateway for in-app wallet recharge, embedded **Shelf** HTTP server (port 8080) for hardware pairing, and automated security login alerts via **Gmail SMTP**.
+
+#### 🎫 [Automatic Fare Collection System with Voice Alert (MCA Minor Project)](https://github.com/gaganagana/Automatic-Fare-Collection-System-IoT/tree/main/Minor-Project/Automatic-Fare-Collection-System-with-Voice-Alert)
+*Arduino UNO, Embedded C, MFRC522 RFID (13.56 MHz), DFPlayer Mini, 16x2 I2C LCD, SG90 Servos*
+- Designed and fabricated an autonomous physical embedded ticketing prototype executing contactless 13.56 MHz RFID smart card tap-in and tap-out validation.
+- Implemented dynamic stage-based fare computation ($Fare = N \times ₹10$, minimum $₹10$) with multi-track voice feedback via **DFPlayer Mini** and real-time balance display on a **16x2 I2C LCD**.
+- Controlled mechanical entry and exit barrier turnstiles synchronized with card authorization and insufficient balance warnings.
 
 #### 📊 [Supermart Grocery Sales & Retail Analytics](https://github.com/gaganagana/python-fullstack-data-science)
 *Python, Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Jupyter Notebook*
