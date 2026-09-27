@@ -11,7 +11,7 @@ I am a **Master of Computer Applications (MCA)** student and **Python Full Stack
 
 With a strong foundation in backend architecture, relational database management, and network protocols, I build practical software solutions with an emphasis on data integrity, clean API design, and practical security principles.
 
-- 🎓 Pursuing MCA at **Community Institute of Management Studies (CIMS)**, Bengaluru (2024–2026).
+- 🎓 MCA at **Community Institute of Management Studies (CIMS)**, Bengaluru (2024–2026).
 - 💻 Completed intensive **Python Full Stack & Data Science** training at Genesis.
 - 🔐 Focused on **application cryptography, network security, and secure coding practices**.
 
