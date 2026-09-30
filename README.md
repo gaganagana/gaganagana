@@ -1,7 +1,7 @@
 # Hi, I'm Gagana C P 👋
 
 ### Python Full Stack Developer | MCA Student | Security Enthusiast
-🌐 [Live Portfolio](https://gaganagana.github.io) &nbsp;|&nbsp; 📍 Bengaluru, India &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/gaganacp/) &nbsp;|&nbsp; 📧 [Email](mailto:gaganacp2002@gmail.com)
+🌐 [Live Portfolio](https://gaganagana.github.io) &nbsp;|&nbsp; 📄 [Resume (PDF)](https://gaganagana.github.io/assets/Gagana_CP_Resume.pdf) &nbsp;|&nbsp; 📍 Bengaluru, India &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/gaganacp/) &nbsp;|&nbsp; 📧 [Email](mailto:gaganacp2002@gmail.com)
 
 ---
 
@@ -86,6 +86,7 @@ Grounding practical software development in core security fundamentals:
 ### 📫 Connect With Me
 
 - 🌐 **Portfolio**: [gaganagana.github.io](https://gaganagana.github.io)
+- 📄 **Resume**: [Download Resume (PDF)](https://gaganagana.github.io/assets/Gagana_CP_Resume.pdf)
 - 💼 **LinkedIn**: [linkedin.com/in/gaganacp](https://www.linkedin.com/in/gaganacp/)
 - 🐙 **GitHub**: [github.com/gaganagana](https://github.com/gaganagana)
 - 📧 **Email**: [gaganacp2002@gmail.com](mailto:gaganacp2002@gmail.com)
